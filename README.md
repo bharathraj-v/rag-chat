@@ -21,3 +21,5 @@
 3. Set up HUGGINGFACE_TOKEN env variable in .env file for BGE-M3 and Mixtral usage via inference API.
 4. Run the gradio_app.py via `gradio_app.py` to access the user interface. Alternatively, you can run the code at the end of the main.ipynb.
 5. Please feel free to reach out to me at `bharathrajpalivela@gmail.com` in case of any queries.
+
+(Alternate link for the jsonl file containing chunks & embeddings - https://drive.google.com/file/d/1BYAlY0eqwKXR_NuMWM92_CWVoJGS5N2g/view?usp=sharing incase LFS is not working)
