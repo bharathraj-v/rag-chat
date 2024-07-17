@@ -1,1 +1,7 @@
-FlagEmbedding
+transformers
+sentence-transformers
+pymilvus
+pandas
+gradio
+langchain-huggingface
+langchain
