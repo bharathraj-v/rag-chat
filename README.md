@@ -1,4 +1,4 @@
-# RAG Chatbot for NVIDIA CUDA Documentation Site
+# RAG Chatbot for NVIDIA CUDA Documentation
 
 #### Working screenshot:
 
