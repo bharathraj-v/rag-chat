@@ -16,7 +16,7 @@
 * Gradio is being used for the user interface.
 
 #### Instructions to run the demo:
-1. `pip install -r requirements.txt`
+1. `git clone https://github.com/bharathraj-v/rag-chat`, `cd rag-chat` & `pip install -r requirements.txt`.
 2. Set up your MILVUS account, modify and run the Milvus client URL and code according to your set-up - (different for docker, zilliz, etc.) in main.ipynb to store the data in a vector database.
 3. Set up HUGGINGFACE_TOKEN env variable in .env file for BGE-M3 and Mixtral usage via inference API.
 4. Run the gradio_app.py via `python gradio_app.py` to access the user interface. Alternatively, you can run the code at the end of the main.ipynb.
