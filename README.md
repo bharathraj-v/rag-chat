@@ -17,9 +17,9 @@
 
 #### Instructions to run the demo:
 1. `git clone https://github.com/bharathraj-v/rag-chat`, `cd rag-chat` & `pip install -r requirements.txt`.
-2. Set up your MILVUS account, modify and run the Milvus client URL and code according to your set-up - (different for docker, zilliz, etc.) in main.ipynb to store the data in a vector database.
+2. Set up your MILVUS account, modify and run the Milvus client URL and code according to your set-up - (different for docker, zilliz, etc.) in `main.ipynb` to store the data in a vector database.
 3. Set up HUGGINGFACE_TOKEN env variable in .env file for BGE-M3 and Mixtral usage via inference API.
-4. Run the gradio_app.py via `python gradio_app.py` to access the user interface. Alternatively, you can run the code at the end of the main.ipynb.
+4. Run the gradio_app.py via `python gradio_app.py` to access the user interface. Alternatively, you can run the code at the end of the `main.ipynb`.
 5. Please feel free to reach out to me at `bharathrajpalivela@gmail.com` in case of any queries.
 
 (Alternate link for the jsonl file containing chunks & embeddings - https://drive.google.com/file/d/1BYAlY0eqwKXR_NuMWM92_CWVoJGS5N2g/view?usp=sharing in case LFS is not working)
